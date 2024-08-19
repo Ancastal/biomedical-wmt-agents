@@ -15,11 +15,11 @@ To get started with this project, you will need to have Python 3.8 or higher ins
 
 ## Project Structure
 
-- main.py: The entry point for the project. Loads environment variables and initializes the translation crew.
-- translation_tasks.py: Defines tasks for biomedical text translation.
-- translation_agents.py: Contains agent definitions used to perform translations.
-- crew.py: Manages the crew of agents working on translation tasks.
-- pyproject.toml: Defines the project dependencies and build configurations.
+- `main.py`: The entry point for the project. Loads environment variables and initializes the translation crew.
+- `translation_tasks.py`: Defines tasks for biomedical text translation.
+- `translation_agents.py`: Contains agent definitions used to perform translations.
+- `crew.py`: Manages the crew of agents working on translation tasks.
+- `pyproject.toml`: Defines the project dependencies and build configurations.
 
 ## How To Cite
 
