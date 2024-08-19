@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Castaldo"
+    given-names: "Antonio"
+title: "Biomedical MT Agents for WMT 2024"
+version: 1.0.0
+doi: 10.5281/zenodo.13342142
+date-released: 2024-08-19
+url: "https://github.com/ancastal/biomedical-wmt-agents"
+type: software
+keywords:
+  - machine translation
+  - biomedical
+  - WMT2024
+repository-code: "https://github.com/ancastal/biomedical-wmt-agents"
+license: MIT
