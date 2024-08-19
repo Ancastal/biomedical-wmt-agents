@@ -21,6 +21,21 @@ To get started with this project, you will need to have Python 3.8 or higher ins
 - crew.py: Manages the crew of agents working on translation tasks.
 - pyproject.toml: Defines the project dependencies and build configurations.
 
+## How To Cite
+
+```
+@software{castaldo_biomedical_mt_agents_2024,
+  author       = {Castaldo, Antonio},
+  title        = {Biomedical {MT} {Agents}},
+  year         = {2024},
+  publisher    = {GitHub},
+  journal      = {GitHub repository},
+  url          = {https://github.com/YourGitHubUsername/Biomedical-MT-Agents},
+  doi          = {10.5281/zenodo.13342142},
+  note         = {Submission to WMT24}
+}
+```
+
 ## LICENSE
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
