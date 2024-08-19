@@ -1,4 +1,5 @@
-# Biomedical MT Agents
+# Biomedical MT Agents [![DOI](https://zenodo.org/badge/844520374.svg)](https://zenodo.org/doi/10.5281/zenodo.13342142)
+
 
 This repository contains code for Biomedical Machine Translation (MT) agents. The agents and tasks implemented here are designed to facilitate the translation of biomedical texts using advanced language models.
 
