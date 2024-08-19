@@ -26,11 +26,11 @@ To get started with this project, you will need to have Python 3.8 or higher ins
 ```
 @software{castaldo_biomedical_mt_agents_2024,
   author       = {Castaldo, Antonio},
-  title        = {Biomedical {MT} {Agents}},
+  title        = {Biomedical {MT} {Agents} for WMT 2024},
   year         = {2024},
   publisher    = {GitHub},
-  journal      = {GitHub repository},
-  url          = {https://github.com/YourGitHubUsername/Biomedical-MT-Agents},
+  journal      = {GitHub Repository},
+  url          = {https://github.com/ancastal/biomedical-wmt-agents},
   doi          = {10.5281/zenodo.13342142},
   note         = {Submission to WMT24}
 }
